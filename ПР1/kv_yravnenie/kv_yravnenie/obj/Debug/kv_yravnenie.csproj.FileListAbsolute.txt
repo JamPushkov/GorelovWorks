@@ -1,0 +1,18 @@
+c:\users\юлия\documents\visual studio 2013\Projects\kv_yravnenie\kv_yravnenie\bin\Debug\kv_yravnenie.exe.config
+c:\users\юлия\documents\visual studio 2013\Projects\kv_yravnenie\kv_yravnenie\bin\Debug\kv_yravnenie.exe
+c:\users\юлия\documents\visual studio 2013\Projects\kv_yravnenie\kv_yravnenie\bin\Debug\kv_yravnenie.pdb
+c:\users\юлия\documents\visual studio 2013\Projects\kv_yravnenie\kv_yravnenie\obj\Debug\kv_yravnenie.csprojResolveAssemblyReference.cache
+c:\users\юлия\documents\visual studio 2013\Projects\kv_yravnenie\kv_yravnenie\obj\Debug\kv_yravnenie.Form1.resources
+c:\users\юлия\documents\visual studio 2013\Projects\kv_yravnenie\kv_yravnenie\obj\Debug\kv_yravnenie.Properties.Resources.resources
+c:\users\юлия\documents\visual studio 2013\Projects\kv_yravnenie\kv_yravnenie\obj\Debug\kv_yravnenie.csproj.GenerateResource.Cache
+c:\users\юлия\documents\visual studio 2013\Projects\kv_yravnenie\kv_yravnenie\obj\Debug\kv_yravnenie.exe
+c:\users\юлия\documents\visual studio 2013\Projects\kv_yravnenie\kv_yravnenie\obj\Debug\kv_yravnenie.pdb
+Z:\Общая для записи студентам\205 гр\Лукьянчиков, Пушков\!Программные модули\ПР1\kv_yravnenie\kv_yravnenie\bin\Debug\kv_yravnenie.exe.config
+Z:\Общая для записи студентам\205 гр\Лукьянчиков, Пушков\!Программные модули\ПР1\kv_yravnenie\kv_yravnenie\obj\Debug\kv_yravnenie.pdb
+Z:\Общая для записи студентам\205 гр\Лукьянчиков, Пушков\!Программные модули\ПР1\kv_yravnenie\kv_yravnenie\bin\Debug\kv_yravnenie.exe
+Z:\Общая для записи студентам\205 гр\Лукьянчиков, Пушков\!Программные модули\ПР1\kv_yravnenie\kv_yravnenie\bin\Debug\kv_yravnenie.pdb
+Z:\Общая для записи студентам\205 гр\Лукьянчиков, Пушков\!Программные модули\ПР1\kv_yravnenie\kv_yravnenie\obj\Debug\kv_yravnenie.csprojResolveAssemblyReference.cache
+Z:\Общая для записи студентам\205 гр\Лукьянчиков, Пушков\!Программные модули\ПР1\kv_yravnenie\kv_yravnenie\obj\Debug\kv_yravnenie.Form1.resources
+Z:\Общая для записи студентам\205 гр\Лукьянчиков, Пушков\!Программные модули\ПР1\kv_yravnenie\kv_yravnenie\obj\Debug\kv_yravnenie.Properties.Resources.resources
+Z:\Общая для записи студентам\205 гр\Лукьянчиков, Пушков\!Программные модули\ПР1\kv_yravnenie\kv_yravnenie\obj\Debug\kv_yravnenie.csproj.GenerateResource.Cache
+Z:\Общая для записи студентам\205 гр\Лукьянчиков, Пушков\!Программные модули\ПР1\kv_yravnenie\kv_yravnenie\obj\Debug\kv_yravnenie.exe

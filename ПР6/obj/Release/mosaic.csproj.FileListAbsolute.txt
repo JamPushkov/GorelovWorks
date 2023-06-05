@@ -1,0 +1,11 @@
+G:\MyProjects\Programming\MS Visual Studio\InterestPrograms\Обновленные коды\Игра Мозаика\mosaic\bin\Release\mosaic.exe
+G:\MyProjects\Programming\MS Visual Studio\InterestPrograms\Обновленные коды\Игра Мозаика\mosaic\bin\Release\mosaic.pdb
+G:\MyProjects\Programming\MS Visual Studio\InterestPrograms\Обновленные коды\Игра Мозаика\mosaic\obj\Release\mosaic.csprojAssemblyReference.cache
+G:\MyProjects\Programming\MS Visual Studio\InterestPrograms\Обновленные коды\Игра Мозаика\mosaic\obj\Release\mosaic.FormMain.resources
+G:\MyProjects\Programming\MS Visual Studio\InterestPrograms\Обновленные коды\Игра Мозаика\mosaic\obj\Release\mosaic.SetDlg.resources
+G:\MyProjects\Programming\MS Visual Studio\InterestPrograms\Обновленные коды\Игра Мозаика\mosaic\obj\Release\mosaic.HelpDlg.resources
+G:\MyProjects\Programming\MS Visual Studio\InterestPrograms\Обновленные коды\Игра Мозаика\mosaic\obj\Release\mosaic.Properties.Resources.resources
+G:\MyProjects\Programming\MS Visual Studio\InterestPrograms\Обновленные коды\Игра Мозаика\mosaic\obj\Release\mosaic.csproj.GenerateResource.cache
+G:\MyProjects\Programming\MS Visual Studio\InterestPrograms\Обновленные коды\Игра Мозаика\mosaic\obj\Release\mosaic.csproj.CoreCompileInputs.cache
+G:\MyProjects\Programming\MS Visual Studio\InterestPrograms\Обновленные коды\Игра Мозаика\mosaic\obj\Release\mosaic.exe
+G:\MyProjects\Programming\MS Visual Studio\InterestPrograms\Обновленные коды\Игра Мозаика\mosaic\obj\Release\mosaic.pdb

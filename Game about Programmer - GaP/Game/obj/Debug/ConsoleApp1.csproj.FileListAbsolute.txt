@@ -1,0 +1,21 @@
+X:\Общая для записи студентам\207 22-23\207 разработка программных модулей\колевой и горохов\RPG\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+X:\Общая для записи студентам\207 22-23\207 разработка программных модулей\колевой и горохов\RPG\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+X:\Общая для записи студентам\207 22-23\207 разработка программных модулей\колевой и горохов\RPG\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+X:\Общая для записи студентам\207 22-23\207 разработка программных модулей\колевой и горохов\RPG\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+X:\Общая для записи студентам\207 22-23\207 разработка программных модулей\колевой и горохов\RPG\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+X:\Общая для записи студентам\207 22-23\207 разработка программных модулей\колевой и горохов\RPG\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+X:\Общая для записи студентам\207 22-23\207 разработка программных модулей\колевой и горохов\RPG\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+X:\Общая для записи студентам\205 гр\Лукьянчиков, Пушков\!Программные модули\Game about Programmer - GaP\Game\bin\Debug\ConsoleApp1.exe.config
+X:\Общая для записи студентам\205 гр\Лукьянчиков, Пушков\!Программные модули\Game about Programmer - GaP\Game\bin\Debug\ConsoleApp1.exe
+X:\Общая для записи студентам\205 гр\Лукьянчиков, Пушков\!Программные модули\Game about Programmer - GaP\Game\bin\Debug\ConsoleApp1.pdb
+X:\Общая для записи студентам\205 гр\Лукьянчиков, Пушков\!Программные модули\Game about Programmer - GaP\Game\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+X:\Общая для записи студентам\205 гр\Лукьянчиков, Пушков\!Программные модули\Game about Programmer - GaP\Game\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+X:\Общая для записи студентам\205 гр\Лукьянчиков, Пушков\!Программные модули\Game about Programmer - GaP\Game\obj\Debug\ConsoleApp1.exe
+X:\Общая для записи студентам\205 гр\Лукьянчиков, Пушков\!Программные модули\Game about Programmer - GaP\Game\obj\Debug\ConsoleApp1.pdb
+G:\Общая для записи студентам\205 гр\Лукьянчиков, Пушков\!Программные модули\Game about Programmer - GaP\Game\bin\Debug\ConsoleApp1.exe.config
+G:\Общая для записи студентам\205 гр\Лукьянчиков, Пушков\!Программные модули\Game about Programmer - GaP\Game\bin\Debug\ConsoleApp1.exe
+G:\Общая для записи студентам\205 гр\Лукьянчиков, Пушков\!Программные модули\Game about Programmer - GaP\Game\bin\Debug\ConsoleApp1.pdb
+G:\Общая для записи студентам\205 гр\Лукьянчиков, Пушков\!Программные модули\Game about Programmer - GaP\Game\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+G:\Общая для записи студентам\205 гр\Лукьянчиков, Пушков\!Программные модули\Game about Programmer - GaP\Game\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+G:\Общая для записи студентам\205 гр\Лукьянчиков, Пушков\!Программные модули\Game about Programmer - GaP\Game\obj\Debug\ConsoleApp1.exe
+G:\Общая для записи студентам\205 гр\Лукьянчиков, Пушков\!Программные модули\Game about Programmer - GaP\Game\obj\Debug\ConsoleApp1.pdb

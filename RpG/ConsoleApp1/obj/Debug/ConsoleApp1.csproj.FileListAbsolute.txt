@@ -1,0 +1,7 @@
+X:\Общая для записи студентам\205 гр\Лукьянчиков, Пушков\!Программные модули\RpG\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+X:\Общая для записи студентам\205 гр\Лукьянчиков, Пушков\!Программные модули\RpG\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+X:\Общая для записи студентам\205 гр\Лукьянчиков, Пушков\!Программные модули\RpG\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+X:\Общая для записи студентам\205 гр\Лукьянчиков, Пушков\!Программные модули\RpG\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+X:\Общая для записи студентам\205 гр\Лукьянчиков, Пушков\!Программные модули\RpG\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+X:\Общая для записи студентам\205 гр\Лукьянчиков, Пушков\!Программные модули\RpG\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+X:\Общая для записи студентам\205 гр\Лукьянчиков, Пушков\!Программные модули\RpG\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
